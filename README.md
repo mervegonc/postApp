@@ -1,6 +1,3 @@
-
-Of course, let's revise the README file in English:
-
 Spring Boot Security JWT Authentication Example
 This project serves as an example of implementing JSON Web Token (JWT) based authentication mechanism using Spring Boot and Spring Security.
 
@@ -36,5 +33,3 @@ If you encounter any bugs or issues, please open an issue on GitHub.
 If you have any development suggestions, please submit a pull request on GitHub.
 License
 This project is licensed under the MIT License. See the LICENSE file for more information.
-
-With these revisions, your README file will serve as an updated and informative resource for users to understand and utilize your project.
